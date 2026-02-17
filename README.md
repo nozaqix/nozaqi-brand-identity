@@ -18,7 +18,7 @@ nozaqiのブランドアセットを管理するリポジトリ。
 ## 公開URL
 
 ```
-https://release.nozaqi.work/nzq/nozaqi-brand-identity/avatar.png
-https://release.nozaqi.work/nzq/nozaqi-brand-identity/avatar.jpg
-https://release.nozaqi.work/nzq/nozaqi-brand-identity/avatar-gray.png
+https://assets.nozaqi.work/nzq/nozaqi-brand-identity/avatar.png
+https://assets.nozaqi.work/nzq/nozaqi-brand-identity/avatar.jpg
+https://assets.nozaqi.work/nzq/nozaqi-brand-identity/avatar-gray.png
 ```
